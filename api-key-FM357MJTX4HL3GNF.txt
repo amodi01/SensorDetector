@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-yorzdk ===
+
+API key:
+FM357MJTX4HL3GNF
+
+API secret:
+qaOBUEI1p3bhJgOCzkN9ilJdPYMEnXmGj+Ns5hNnbE39x34NlzTKEOPe9nupk+6s
+
+Bootstrap server:
+pkc-3w22w.us-central1.gcp.confluent.cloud:9092

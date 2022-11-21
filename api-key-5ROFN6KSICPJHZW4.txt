@@ -1,0 +1,12 @@
+=== Confluent Cloud API key: lsrc-815227 ===
+
+API key:
+5ROFN6KSICPJHZW4
+
+API secret:
+OHPeiVNvKqnePCHgn70auTSr86cpHBZUYajP+nNj+8xdjF/CL+wNqrMJr4iGtRxp
+
+
+Schema End Point
+
+https://psrc-mw731.us-east-2.aws.confluent.cloud
